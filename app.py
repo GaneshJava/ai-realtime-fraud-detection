@@ -9,7 +9,7 @@
 # - VPN-related fields (Option A - manual flags)
 # - Aadhaar as identity type
 # - Beneficiary type as mutually exclusive options
-# - Additional channels: Debit Card, Other
+# - Additional channels: Debit Card, Other 
 
 
 import datetime
